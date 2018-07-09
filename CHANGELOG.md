@@ -7,6 +7,7 @@
 * BUGFIX: model edgecos, ciscosmb
 * MISC: bump Dockerfile phusion/baseimage:0.10.0 -> 0.10.1
 * FEATURE: add viptela model (@bobthebutcher)
+* FEATURE: add hpvc model (@empi89)
 
 ## 0.24.0
 
